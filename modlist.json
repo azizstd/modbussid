@@ -3,158 +3,6 @@
 	"mod": [
 		
 		{
-			"name": "Jetliner SHD RN285.bussidmod",
-			"title": "Jetliner SHD RN285",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JETLINER_SHD_RN285_evortex.bussidmod",
-			"livery": [],
-			"img_url": [
-				"https://i.ytimg.com/vi/sfJOslix9es/maxresdefault.jpg",
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/06/SGCA_IMG-19062022-164057.jpg",
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2019/07/Jetliner-SHD-Mod-for-BUSSID-by-WSPMod-SGCArena.jpg"
-			],
-			"kategori": "buss",
-			"size": "44.06 mb",
-			"created_on": "29/10/2022"
-		},
-		
-		{
-			"name": "JB3 HDD Single Glass.bussidmod",
-			"title": "JB3 HDD Single Glass",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3%20HDD%20Single%20Glass/HDDSG_TAMENG_FS.bussidmod",
-			"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3%20HDD%20Single%20Glass/ALS_Hino_RMSG.png?inline=false",
-				  "https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3%20HDD%20Single%20Glass/PALALA_Hino_RMSG.png?inline=false"],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/06/SGCA_IMG-23062022-140638.jpg",
-				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2THfkaksY-uaGRD3UgMsOhkCRjbuUxQ29ew&usqp=CAU",
-				"https://i.ytimg.com/vi/8RpZDM6RJIY/maxresdefault.jpg"
-			],
-			"kategori": "buss",
-			"size": "39.40 mb",
-			"created_on": "29/10/2022"
-		},
-		
-		{
-			"name": "SR2 XHD Prime Scania.bussidmod",
-			"title": "SR2 XHD Prime Scania",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/__2F___SR2_XHD_Prime_TRONTON_PAKE_WINGLET_BY_CORELAV_VIVA_VARIAN_SCANIA.bussidmod",
-			"livery": [],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/07/SGCA_IMG-05072022-191717.jpg",
-				"https://i.ytimg.com/vi/D-8sMsGWhRQ/maxresdefault.jpg",
-				"https://i.ytimg.com/vi/d9c82HXbeF0/maxresdefault.jpg"
-			],
-			"kategori": "buss",
-			"size": "39.40 mb",
-			"created_on": "29/10/2022"
-		},
-		{
-			"name": "Discovery SERI 1.bussidmod",
-			"title": "Discovery SERI 1",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Dc01_Sr_Full_Acc_Dan_Full_Boneka.bussidmod",
-			"livery": [],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/07/SGCA_IMG-10072022-070443.jpg",
-				"https://i.ytimg.com/vi/GOfovxldMSI/maxresdefault.jpg",
-				"https://3.bp.blogspot.com/-QDneEkstCQc/W5IfX_xLKeI/AAAAAAAAHw4/xBHJLzgYRjEljKeZknB6PWVTF4bQHvmkwCLcBGAs/s1600/985.png"
-			],
-			"kategori": "buss",
-			"size": "41.74 mb",
-			"created_on": "29/10/2022"
-		},
-		
-				{
-			"name": "Mercedes-Benz Multego OC500.bussidmod",
-			"title": "Mercedes-Benz Multego OC500",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mercedes-Benz_Multego_OC500_cvt_MAH_Channel.bussidmod",
-			"livery": [],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/07/SGCA_IMG-29072022-191209.jpg",
-				"https://i.ytimg.com/vi/3viCoAf6EiU/maxresdefault.jpg",
-				"https://www.gtainside.com/downloads/picr/2020-10/1602245728_gallery191.jpg"
-			],
-			"kategori": "buss",
-			"size": "12.00 mb",
-			"created_on": "28/10/2022"
-		},
-		
-		
-		{
-			"name": "JB3+ SHD Hino RK.bussidmod",
-			"title": "JB3+ SHD Hino RK",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/HINO_SAMPLE.bussidmod",
-			"livery": [],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/08/SGCA_IMG-17082022-165323.jpg",
-				"https://droidve.com/wp-content/uploads/2021/01/MOD-BUSSID-JB3-SHD-Setra-Angga-Saputro-Hino-RK8-v1.jpg"
-			],
-			"kategori": "buss",
-			"size": "41.31 mb",
-			"created_on": "28/10/2022"
-		},
-		
-		{
-			"name": "Jetbus 3 Single Glass.bussidmod",
-			"title": "Jetbus 3 Single Glass",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/sr2_xhd_gen3_update___VELG_RK_STANDAR__.bussidmod",
-			"livery": [],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/08/SGCA_IMG-29082022-181644.jpg",
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/08/SGCA_IMG-29082022-181923.jpg",
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/08/SGCA_IMG-29082022-181921.jpg"
-			],
-			"kategori": "buss",
-			"size": "44.44 mb",
-			"created_on": "28/10/2022"
-		},
-		
-		
-		{
-			"name": "SR2 Gen 3.bussidmod",
-			"title": "SR2 Gen 3",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/sr2_xhd_gen3_update___VELG_RK_STANDAR__.bussidmod",
-			"livery": [],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/09/SGCA_IMG-03092022-041526.jpg",
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/09/SGCA_IMG-03092022-044556.jpg",
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/09/SGCA_IMG-03092022-044558.jpg"
-			],
-			"kategori": "buss",
-			"size": "41.14 mb",
-			"created_on": "28/10/2022"
-		},
-		
-		{
-			"name": "RS New Celcius.bussidmod",
-			"title": "RS New Celcius",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/rs%20new%20celcius/RS_NEWCELCIUS__MBSTEAM.bussidmod",
-			"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/rs%20new%20celcius/body_1.png?inline=false"],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/08/SGCA_IMG-07082022-184915.jpg",
-				"https://i.ytimg.com/vi/Ni9n1jlRtbs/maxresdefault.jpg",
-				"https://i.ytimg.com/vi/6X-kXTnsTYg/sddefault.jpg"
-			],
-			"kategori": "buss",
-			"size": "33.70 mb",
-			"created_on": "28/10/2022"
-		},
-		
-		{
-			"name": "Truck Losbak Aktor.bussidmod",
-			"title": "Truck Losbak Aktor",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Losbak%20Aktor/2._CANTER_LOSBAK_BUDESIGN.bussidmod",
-			"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Losbak%20Aktor/2._losbak_by_fa_design.png?inline=false"],
-			"img_url": [
-				"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/01/511.jpg",
-				"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2413-1.jpg",
-				"https://gameitu.com/wp-content/uploads/2022/05/Mod-Bussid-Truck-Losbak-Aktor.jpg"
-			],
-			"kategori": "truck",
-			"size": "32.30 mb",
-			"created_on": "27/10/2022"
-		},
-		
-		
-		{
 			"name": "Persija DC Tronton DOP Full Animasi.bussidmod",
 			"title": "Persija DC Tronton DOP Full Animasi",
 			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Persija%20DC%20Tronton%20DOP%20Full%20Animasi/4._DC_TRONTON.bussidmod",
@@ -1188,8 +1036,13 @@
 		{
 			"name": "Mobil BMW M4 Competition 2021.bussidmod",
 			"title": "Mobil BMW M4 Competition 2021",
-			"url": "https://download.modbussid.co.id/6l6",
-			"livery": [],
+			"url": "https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20BMW%20M4%20Competition%202021/BMW_M4_Competition_2021_by_MAH_Channel.bussidmod",
+			"livery": [
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20BMW%20M4%20Competition%202021/Livery_Black_by_MAH_Channel.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20BMW%20M4%20Competition%202021/Livery_Red_by_MAH_Channel.png"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20BMW%20M4%20Competition%202021/Livery_Blue_by_MAH_Channel.png"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20BMW%20M4%20Competition%202021/Livery_Green_by_MAH_Channel.png"
+			],
 			"img_url": [
 				"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/BMW-M4-Competition-2021.jpg",
 				"https://i.ytimg.com/vi/mJ5-kiJ4mWE/maxresdefault.jpg",
